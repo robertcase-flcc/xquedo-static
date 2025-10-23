@@ -1,2 +1,5 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://robertcase-flcc.github.io/xquedo-static/sitemap.xml
+
